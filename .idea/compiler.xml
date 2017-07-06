@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="learn-designpattern" />
+        <module name="learn-session-demo" />
         <module name="learn-test-io" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="learn-designpattern" target="1.5" />
+      <module name="learn-session-demo" target="1.5" />
       <module name="learn-test-io" target="1.5" />
     </bytecodeTargetLevel>
   </component>

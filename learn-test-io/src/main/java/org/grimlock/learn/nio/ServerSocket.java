@@ -1,4 +1,4 @@
-package org.grimlock.learn.test.nio;
+package org.grimlock.learn.nio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

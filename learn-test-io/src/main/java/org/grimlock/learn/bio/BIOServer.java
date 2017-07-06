@@ -1,4 +1,4 @@
-package org.grimlock.learn.test.bio;
+package org.grimlock.learn.bio;
 
 import java.io.IOException;
 import java.io.InputStream;
