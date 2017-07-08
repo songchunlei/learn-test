@@ -1,7 +1,7 @@
 package org.grimlock.learn.designpattern.singleton;
 
 /**
- * 饿汉式单例模式
+ * 饿汉式单例模式（多线程是可用的）
  * Created by songchunlei on 2017/7/8.
  */
 public class Person

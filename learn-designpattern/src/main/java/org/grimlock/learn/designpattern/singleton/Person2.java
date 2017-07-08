@@ -1,7 +1,7 @@
 package org.grimlock.learn.designpattern.singleton;
 
 /**
- * 懒汉式单例模式
+ * 懒汉式单例模式（多线程不行）
  * Created by songchunlei on 2017/7/8.
  */
 public class Person2
