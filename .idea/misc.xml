@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/learn-session-demo/pom.xml" />
         <option value="$PROJECT_DIR$/learn-designpattern/pom.xml" />
         <option value="$PROJECT_DIR$/learn-asm/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-velocity/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-lock/pom.xml" />
       </list>
     </option>
   </component>
