@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learn-asm/learn-asm.iml" filepath="$PROJECT_DIR$/learn-asm/learn-asm.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-designpattern/learn-designpattern.iml" filepath="$PROJECT_DIR$/learn-designpattern/learn-designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-io/learn-io.iml" filepath="$PROJECT_DIR$/learn-io/learn-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-lock/learn-lock.iml" filepath="$PROJECT_DIR$/learn-lock/learn-lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-test.iml" filepath="$PROJECT_DIR$/learn-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learn-io/learn-test-io.iml" filepath="$PROJECT_DIR$/learn-io/learn-test-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-velocity/learn-velocity.iml" filepath="$PROJECT_DIR$/learn-velocity/learn-velocity.iml" />
     </modules>
   </component>

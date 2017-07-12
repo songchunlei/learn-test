@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.grimlock</groupId>
-    <artifactId>learn-test-io</artifactId>
+    <artifactId>learn-io</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="learn-asm" />
         <module name="learn-designpattern" />
+        <module name="learn-io" />
         <module name="learn-lock" />
         <module name="learn-session-demo" />
         <module name="learn-test-io" />
@@ -17,6 +18,7 @@
     <bytecodeTargetLevel>
       <module name="learn-asm" target="1.5" />
       <module name="learn-designpattern" target="1.5" />
+      <module name="learn-io" target="1.5" />
       <module name="learn-lock" target="1.6" />
       <module name="learn-session-demo" target="1.5" />
       <module name="learn-test-io" target="1.5" />
