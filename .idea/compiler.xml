@@ -6,20 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="learn-api" />
         <module name="learn-asm" />
         <module name="learn-designpattern" />
         <module name="learn-io" />
         <module name="learn-lock" />
+        <module name="learn-miaosha" />
         <module name="learn-session-demo" />
         <module name="learn-test-io" />
         <module name="learn-velocity" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="learn-api" target="1.5" />
       <module name="learn-asm" target="1.5" />
       <module name="learn-designpattern" target="1.5" />
       <module name="learn-io" target="1.5" />
       <module name="learn-lock" target="1.6" />
+      <module name="learn-miaosha" target="1.5" />
       <module name="learn-session-demo" target="1.5" />
       <module name="learn-test-io" target="1.5" />
       <module name="learn-velocity" target="1.5" />

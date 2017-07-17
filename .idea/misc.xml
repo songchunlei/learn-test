@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/learn-velocity/pom.xml" />
         <option value="$PROJECT_DIR$/learn-lock/pom.xml" />
         <option value="$PROJECT_DIR$/learn-io/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-miaosha/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-api/pom.xml" />
       </list>
     </option>
   </component>
