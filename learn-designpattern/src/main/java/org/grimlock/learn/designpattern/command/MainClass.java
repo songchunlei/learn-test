@@ -1,4 +1,4 @@
-package org.grimlock.learn.designpattern.Command;
+package org.grimlock.learn.designpattern.command;
 
 /**
  * 命令设计模式

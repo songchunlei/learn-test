@@ -1,4 +1,4 @@
-package org.grimlock.learn.designpattern.Command;
+package org.grimlock.learn.designpattern.command;
 
 /**
  * Receiver 被调用方

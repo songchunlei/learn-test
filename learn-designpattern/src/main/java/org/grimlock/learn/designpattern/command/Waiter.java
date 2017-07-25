@@ -1,4 +1,4 @@
-package org.grimlock.learn.designpattern.Command;
+package org.grimlock.learn.designpattern.command;
 
 import java.util.ArrayList;
 import java.util.List;

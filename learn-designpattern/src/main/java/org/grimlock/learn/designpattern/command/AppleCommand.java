@@ -1,4 +1,4 @@
-package org.grimlock.learn.designpattern.Command;
+package org.grimlock.learn.designpattern.command;
 
 /**
  * Created by songchunlei on 2017/7/17.
